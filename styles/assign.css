@@ -1,0 +1,73 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header style */
+.nav-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 30px;
+    max-width: 750px;
+
+}
+
+.para {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    max-width: 700px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 40px;
+    margin-bottom: 150px;
+}
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+
+    padding-left: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner .nav-title {
+    padding-top: 200px;
+}
+
+.banner .profile {
+    width: 700px;
+    margin-top: 50px;
+    margin-right: 250px;
+}
+
+/* our featured flower section style */
+.section-title {
+    margin-top: 180px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.flower {
+    text-align: center;
+}
+
+.flower .para-one {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    line-height: 30px;
+}
