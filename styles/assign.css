@@ -59,6 +59,9 @@ body {
     color: #272727;
     font-size: 40px;
     font-weight: 800;
+    margin-left: 750px;
+    margin-right: 750px;
+    margin-bottom: 25px;
 }
 
 .flower {
@@ -70,4 +73,8 @@ body {
     font-family: Lato;
     font-size: 18px;
     line-height: 30px;
+    font-weight: 400px;
+    margin-left: 900px;
+    margin-right: 900px;
+    
 }
