@@ -193,11 +193,53 @@ body {
     padding-left: 420px;
 
 }
-.ban .btn-primary{
+
+.ban .btn-primary {
     margin-left: 600px;
 }
-.tob{
+
+.tob {
     padding: 100px 450px 100px 0;
     height: 550px;
     width: 500px;
+}
+
+.insta-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 180px;
+}
+
+.insta-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 1070px;
+    margin-right: 1070px;
+}
+.showcase{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+    margin-right: 650px;
+
+}
+.showcase>img{
+    height: 450px;
+    width: 400px;
+    
+}
+.green{
+    margin-right: 45px;
+}
+.white{
+    margin-right: 45px;
+}
+.cup{
+    margin-right: 45px;
 }
