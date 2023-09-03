@@ -273,12 +273,48 @@ body {
     line-height: 30px;
     padding-bottom: 60px;
 }
-.inp{
+
+.inp {
     height: 60px;
     width: 700px;
     margin-right: 20px;
 }
-.get-down{
+
+.get-down {
     align-items: center;
     margin-left: 350px;
+}
+
+.foot {
+    background-color: black;
+}
+
+.foot-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
+    padding-left: 1060px;
+    padding-right: 1060px;
+}
+
+.foot-last {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 130px;
+}
+
+.foot-title {
+    text-align: center;
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding: 130px 840px 30px 840px;
+}
+.shop{
+    color: #FFF;
 }
