@@ -76,5 +76,88 @@ body {
     font-weight: 400px;
     margin-left: 900px;
     margin-right: 900px;
+
+}
+
+/* second section style */
+.picture {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.picture .pic-one {
+
+    margin-left: 250px;
+    width: 500px;
+    height: 450px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 100px 70px 0 70px;
+    margin-right: 30px;
+
+}
+
+.picture .pic-three {
+    margin-right: 250px;
+    width: 500px;
+    height: 450px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 100px 70px 0 70px;
+
+}
+
+.picture .pic-two {
+    width: 500px;
+    height: 450px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 100px 70px 0 70px;
+    margin-right: 30px;
+}
+
+.picture {
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+
+}
+
+.rows {
+    text-align: center;
+    padding: 0px auto;
+}
+
+.h {
+    text-align: center;
+    margin-left: 200px;
+}
+
+.h2 {
+    margin-right: 200px;
+}
+
+.men {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    border: 0;
+    margin-left: 490px;
+    margin-right: 450px;
+
     
+}
+.sel{
+    display: flex;
+    padding-top: 150px;
+    align-items: center;
+}
+.delivery1{
+    padding: 90px 0 150px 420px;
+    
+}
+.delivery2{
+    padding: 90px 0 150px 320px;
+}
+.delivery3{
+    padding: 90px 0 150px 320px;
 }
